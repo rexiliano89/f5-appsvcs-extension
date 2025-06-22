@@ -7,3 +7,4 @@ cloud_sptheme
 sphinx_copybutton
 rst2html
 Jinja2==3.0
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
